@@ -7,4 +7,4 @@
 - ✅ Create, edit, and delete tasks
 - 📅 Set due dates and priorities
 
-### Wulan Kinasih (225411002)
+**Wulan Kinasih (225411002)**
